@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "不乱不破",
+  "base_artist": "HOYO-MiX",
+  "createdAt": "2025-12-11T19:01:15.272003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不乱不破 (feat. Reol)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/01_不乱不破_(feat._Reol)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不乱不破",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_不乱不破_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "不乱不破 (Instrumental)",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/03_不乱不破_(Instrumental)_Reol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "不乱不破",
+      "artist": "HOYO-MiX、Reol",
+      "has_synced": true,
+      "path": "select/04_不乱不破_HOYO-MiX、Reol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "不乱不破",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/05_不乱不破_HOYO-MiX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不乱不破",
+      "artist": "HOYO-MiX, Reol",
+      "has_synced": false,
+      "path": "select/pl_01_不乱不破_HOYO-MiX,_Reol.txt"
+    }
+  ]
+}
